@@ -2,8 +2,8 @@
   "name": "calculator",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Khaled-mo9.github.com/calculator",
   "type": "module",
+  "homepage": "https://Khaled-mo9.github.io/calculator",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
